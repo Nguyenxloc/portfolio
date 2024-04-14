@@ -1,11 +1,11 @@
 import React from "react";
 
-export default function aboutMe() {
+export default function AboutMe() {
   return (
     <div className="flex">
-      <div>
+      <div className="w-[500px]">
         <img
-          src="https://scontent.fhan5-9.fna.fbcdn.net/v/t39.30808-6/326970206_509218861347055_3330171925877993895_n.jpg?stp=cp6_dst-jpg&_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHEE3Fp4coRf8o3FklwURzlk6H_zwVJI7iTof_PBUkjuHEa4CJvvD-w6uEX5tSlpmsFIHibUn1-KNHcLIR3Ow02&_nc_ohc=y15keLZTousAb6jrtC2&_nc_ht=scontent.fhan5-9.fna&oh=00_AfCddramQCbpZXGp8acGfdk0U_K6OhuQunZZj0rlahIuDg&oe=6621D89D"
+          src="https://scontent.fhan5-11.fna.fbcdn.net/v/t39.30808-6/306316719_5207478342714818_7984495956455627093_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFP_e9aP-UhSOaP8e9ciINhKXODY68QpWMpc4NjrxClY1EtE06qn1Y3_dQsLF0r0CL1dqhuAu5E1xcV9KHNbnAZ&_nc_ohc=tUs1b8I6G-MAb66XalX&_nc_ht=scontent.fhan5-11.fna&oh=00_AfAoTv32gYrYq7Rm4wNbcRjlZXn_OsrqHsvzOLN_EiGBEA&oe=6621D7F2"
           alt=""
         />
       </div>
